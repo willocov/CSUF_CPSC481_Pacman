@@ -5,7 +5,7 @@ Professor: Wenlin Han
 
 Semester: Summer (July) 2021
 
-Student: William Covington
+Student: William Covington (willocov@csu.fullerton.edu)
 
 This repo contains solutions for both projects in this class (Project 2 builds upon Project 1).
 Descriptions for each project can be found in their respective Project Info PDF's.

@@ -12,3 +12,6 @@ Descriptions for each project can be found in their respective Project Info PDF'
 Code is located in Code.zip. Download and extract files to use.
 Both projects are complete and earned full points.
 
+Original code is also included in case you want to run a diff and see which files have changed.
+
+Good luck to anybody reusing this project for their class.

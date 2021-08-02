@@ -1,7 +1,10 @@
 # CSUF_CPSC481_Pacman
 Finished Project 1 and 2 for CSPC 481 at CSUF
+
 Professor: Wenlin Han
+
 Semester: Summer (July) 2021
+
 Student: William Covington
 
 This repo contains solutions for both projects in this class (Project 2 builds upon Project 1).
